@@ -1,0 +1,1 @@
+javascript: window.alert("hello"); deepball = prompt("is obama superior?"); if (deepball == "yes") {window.alert("obama is the coolest man on this planet");} if (deepball == "no") {window.alert("I WILL CALL MOMMY SATAN TO RESET CHARACTER ON YOUR LIEF");}
