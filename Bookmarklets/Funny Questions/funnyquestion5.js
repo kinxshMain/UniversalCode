@@ -1,0 +1,1 @@
+javascript: window.alert("hello"); deepball = prompt("what is the best number ever?"); if (deepball == "420") {window.alert("finally someone agrees with me");} if (deepball == "69") {window.alert("no its 420 you idiot");}
