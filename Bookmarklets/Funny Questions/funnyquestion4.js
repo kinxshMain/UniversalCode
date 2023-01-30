@@ -1,0 +1,1 @@
+javascript: window.alert("hello"); deepball = prompt("want to hack elon musk?"); if (deepball == "no") {window.alert("you could have stolen elon musk%27s 1 billion dollars idiot");} if (deepball == "yes") {window.alert("i cant believe you tried to hack elon musk to steal his money");}
