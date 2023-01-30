@@ -1,0 +1,1 @@
+javascript: window.alert("hello child"); deepball = prompt("am i inside your house right now?"); if (deepball == "no") {window.alert("i am behaind you");} if (deepball == "yes") {window.alert("look behind you, wait 5 seconds, look again");} 
