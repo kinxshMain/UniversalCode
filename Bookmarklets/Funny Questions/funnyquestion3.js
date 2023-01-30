@@ -1,0 +1,1 @@
+javascript: window.alert("hello"); deepball = prompt("want free vbucks?"); if (deepball == "no") {window.alert("what is wrong with you how can you not want free vbucks");} if (deepball == "yes") {window.alert("haha no vbucks for you stay poor i cant believe you tried to get free vbucks lolololol go steal your mom credit card");}
