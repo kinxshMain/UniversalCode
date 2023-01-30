@@ -24,4 +24,11 @@ Note: The changes do not save and the page will return to normal after either a 
 3. Open the bookamrk
 4. There is a menu bar in the top left corner, you can customize the 3D effect using it
 5. Press "Quit" to turn off 3D
+
+#FunnyQuestions Instructions
+
+1. Copy script and create a bookmark
+2. Paste script in URL bar
+3. Open the bookmark
+4. For the questions, answer "yes" or "no", except for question 5, where you answer "420" or "69"
 </pre>
